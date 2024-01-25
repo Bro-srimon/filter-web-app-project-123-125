@@ -1,0 +1,11 @@
+h3 {
+    font-size: 30px !important;
+    background-color: rgb(168, 137, 255, 0.3);
+}
+.A:hover {
+    background-color: rgba(170, 140, 255);
+}
+.A {
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 18;
+}
